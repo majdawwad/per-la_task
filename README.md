@@ -4,6 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
+# per-la_task
+Application containing Authentication in addition to managing task operations using flutter clean architecture
+
+# Where the clean structure was used according to Robert Mart's hierarchical tree
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
