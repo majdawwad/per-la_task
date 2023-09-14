@@ -1,0 +1,23 @@
+{
+    "login": "Login",
+    "welcome": "Welcome back!",
+    "enter_data": "Enter your data to continue.",
+    "phone number": "Phone number",
+    "enter your phone number": "Enter your phone number",
+    "you must to enter your phone number": "You must to enter your phone number",
+    "the name must not to be smaller than nine numbers": "The name must not to be smaller than nine numbers",
+    "password": "Password",
+    "enter your password": "Enter your password",
+    "you must to enter your password": "You must to enter your password",
+    "enter valid password": "Enter valid password",
+    "the password must not to be smaller than eight numbers": "The password must not to be smaller than eight numbers",
+    "don't have an account?": "Don't have an account? ",
+    "register": "Register",
+    "create account!": "Create account!",
+    "register to get started.": "Register to get started.",
+    "full name": "Full name",
+    "enter your name": "Enter your name",
+    "you must to enter your name": "You must to enter your name",
+    "the name must not to be smaller than six characters": "The name must not to be smaller than six characters",
+    "already have an account?": "Already have an account? "
+}

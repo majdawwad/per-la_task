@@ -1,0 +1,23 @@
+{
+    "login": "تسجيل الدخول",
+    "welcome": "أهلا بعودتك!",
+    "enter_data": "ادخل بياناتك للمتابعة.",
+    "phone number": "رقم الهاتف",
+    "enter your phone number": "ادخل رقم هاتفك",
+    "you must to enter your phone number": "يجب عليك أن تدخل رقم هاتفك",
+    "the name must not to be smaller than nine numbers": "الاسم لا يجب أن يكون أقل من تسع أرقام",
+    "password": "كلمة المرور",
+    "enter your password": "ادخل كلمة مرورك",
+    "you must to enter your password": "يجب أن تدخل كلمة مرورك",
+    "enter valid password": "ادخل كلمة مرور صحيحة",
+    "the password must not to be smaller than eight numbers": "كلمة المرور لا يجب أن تكون أقل من ثمان أرقام",
+    "don't have an account?": "ليس لديك حساب؟ ",
+    "register": "تسحيل",
+    "create account!": "أنشى حساب!",
+    "register to get started.": "سجل لكي تبد١.",
+    "full name": "الاسم الكامل",
+    "enter your name": "ادخل اسمك",
+    "you must to enter your name": "يجب أن تدحل اسمك",
+    "the name must not to be smaller than six characters": "لا يجب أن يكون الاسم أقل من ستة أرقام",
+    "already have an account?": "لديك حساب ؟"
+}
